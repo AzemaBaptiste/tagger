@@ -1,0 +1,14 @@
+# Ignore virtual env
+venv/
+
+# data
+data/
+**/*.npy
+
+# IDE
+.idea/
+
+# Python
+**/__pycache__/
+.coverage
+**/logs/
